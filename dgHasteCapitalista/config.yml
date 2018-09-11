@@ -1,0 +1,26 @@
+# HasteCapitalista - Atualizado: Aceitando configurações de mensagens;
+
+# [Mensagens]
+
+Prefix: '&c&lHASTECAPITALISTA: '
+Ativado: '&7O seu Haste foi &aATIVADO&7.'
+Desativado: '&7O seu Haste foi &cDESATIVADO&7.'
+SemPermissao: '&cVoce precisa ser pelo menos &c&l[GUERREIRO] &cpara fazer isto.'
+PermissaoNecessaria: 'hastecapitalista.ativar'
+
+
+# [ActionBarAPI] Ativado
+
+actionActivated: true
+msgAction: '&c&lHASTECAPITALISTA: &7Voce ativou o haste.'
+msgActionD: '&c&lHASTECAPITALISTA: &7Voce desativou o haste.'
+
+
+# [Sound]
+
+soundType: EXPLODE
+
+# [Extras]
+
+# Nao tem extras ainda...Em breve adicionarei BlackLited Worlds;
+# Em breve retornará TitleAPI;

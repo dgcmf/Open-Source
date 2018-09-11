@@ -1,0 +1,6 @@
+name: dgHasteCapitalista
+main: gamersboard.dgcmf.Main
+version: 2.0
+author: [dgcmfplugins]
+commands:
+   haste:

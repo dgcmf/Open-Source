@@ -1,0 +1,25 @@
+# dgTwitch - Mais um novo plugin para postar gratuitamente na GB :3
+
+Prefix: '&5&l[dgTwitch] '
+
+# URL Configuration
+
+ContainsURL: twitch.tv
+
+# Mensagens
+
+Usage: '&7Argumentos invalidos, utilize: &5/transmitindo URL&7.'
+Bloqueado: '&cVocê foi temporariamente bloqueado para compartilhar sua transimissao.'
+URLMI: '&cA URL citada nao é confiável, utilize a URL que contenha: &5twitch.tv/link&c.'
+ContainsTransmission: '&cVoce ja esta transmitindo, use /transmissao encerrar.'
+NoContainsTransmission: '&cVoce nao esta trasmitindo.'
+ParouStream: '&cVoce finalizou sua transmissao com sucesso.'
+ParouStreamAB: '&cTransmissao finalizada com sucesso.'
+NTwitcher: '&cVoce nao é um streamer, permissão nao aprovada.'
+Transmitindo: '&7O &5&lStreamer &5%jogador% &7está transmitindo pelo link &5%URL%&7.'
+TransmitindoAB: '&5&lStreamer &5%jogador% &7está transmitindo.'
+
+
+# Permission
+
+PermissaoNecessaria: dgtwitch.transmitindo

@@ -1,0 +1,64 @@
+# Version 3.2 - Adicionado HitDamageEvent.
+
+Versão: '3.2.1'
+
+# true para ativado, false para desativado.
+
+
+# Configurações de SOM:
+
+# Som reproduzido ao jogador entrar (Somente ele escutará)
+
+onJoin: ENDERDRAGON_HIT
+joinActivated: true
+
+# Som reproduzido ao Hitar/Tomar dano em/de um jogador
+
+onHitDamage: BLAZE_HIT
+onDamaged: BLAZE_BREATH
+damageActivated: true
+
+# Som reproduzido ao morrer
+
+onDeath: GHAST_DEATH
+deathActivated: true
+
+# Som reproduzido ao matar outro jogador (Somente ele escutará)
+
+onKill: EXPLODE
+killActivated: true
+
+# Som reproduzido para todos quando um jogador sair
+
+globalPlayerQuit: ARROW_HIT
+playerQuitActivated: true
+
+# Som reproduzido para todos quando um jogador entrar
+
+globalPlayerJoin: ENDERDRAGON_HIT
+globalPlayerJoinActivated: false
+
+# Som reproduzido ao jogador colocar um bloco (Somente ele escutará)
+
+onPlaceBlock: ANVIL_LAND
+placeActivated: false
+
+# Som reproduzido ao jogador quebrar um bloco (Somente ele escutará)
+
+onBreakBlock: ANVIL_BREAK
+breakActivated: false
+
+# Som reproduzido ao jogador respawnar (Somente ele escutará)
+
+onRespawn: ENDERDRAGON_GROWL
+respawnActivated: true
+
+# Som reproduzido por um jogador com OP (Todos os jogadores escutarão)
+
+globalOPChatEvent: EXPLODE
+chateventOPActivated: true
+
+# Som reproduzido ao jogador digitar algo (Somente ele escutará)
+
+chatEvent: EXPLODE
+chatEventActivated: false

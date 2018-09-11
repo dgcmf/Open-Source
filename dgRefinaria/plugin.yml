@@ -1,0 +1,6 @@
+name: dgRefinaria
+main: br.com.gamersboard.dgcmf.furnaces.Main
+version: 1.0
+author: [dgcmfplugins]
+commands:
+   refinaria:

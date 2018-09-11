@@ -1,0 +1,7 @@
+name: dgTwitch
+main: br.com.gamersboard.dgcmf.Main
+version: 1.0
+author: [dgcmfplugins]
+commands:
+   transmitindo:
+   transmissao:

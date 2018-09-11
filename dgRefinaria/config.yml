@@ -1,0 +1,23 @@
+# dgRefinaria - Plugin de fornalhas configuravel
+
+Prefix: '&6[dgRefinaria]'
+
+# Mensagens
+
+SemItens: '&cVoce nao possui itens suficientes.'
+TransformouItens: '&7Voce acaba de transformar &a%quantidade% &7blocos de &a%tipo% &7em minerios por &aR$%valor%&7.'
+SemPermissao: '&cVoce nao possui permissao para isto.'
+PermissaoNecessaria: xvideos.com
+SemDinheiro: '&cVoce nao possui dinheiro suficiente para isto.'
+
+
+# Preços
+# Preço por 1 unidade.
+
+Carvao: 1250
+Ferro: 2450
+Diamante: 5600
+Esmeralda: 7800
+Quartzo: 8900
+Redstone: 7500
+Ouro: 6700
